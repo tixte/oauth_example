@@ -1,0 +1,8 @@
+{
+    "fastifyPort": 8080,
+    "cookieSecret": "your-super-secret-code",
+    "clientId": "specify your client id",
+    "clientSecret": "specify your client secret",
+    "clientScopes": ["identity"],
+    "clientRedirectUri": "specify your redirect uri"
+}

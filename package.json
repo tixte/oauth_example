@@ -1,0 +1,25 @@
+{
+  "name": "oauth-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tixte/oauth-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tixte/oauth-demo/issues"
+  },
+  "homepage": "https://github.com/tixte/oauth-demo#readme",
+  "dependencies": {
+    "fastify": "^3.14.1",
+    "fastify-cookie": "^5.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
